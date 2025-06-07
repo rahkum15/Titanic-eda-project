@@ -53,7 +53,7 @@ We conducted EDA using **pandas**, **matplotlib**, and **seaborn**:
 * Bar plots for categorical feature impact
 
 ## Sample View
-Snapshot Review = 
+Snapshot Review = https://github.com/rahkum15/Titanic-eda-project/blob/main/Sample%20View.png
 ## ✅ Results
 
 * **Best Accuracy Achieved**: \~**X%** (replace with your score)
